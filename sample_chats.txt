@@ -1,0 +1,18 @@
+User: Can you recommend a good comedy movie?
+Bot: Absolutely! You might enjoy 'The Grand Budapest Hotel'. It's quirky and fun.
+User: Is it similar to any other films?
+Bot: Yes! If you enjoy Wes Anderson’s style, check out 'Moonrise Kingdom' or 'Fantastic Mr. Fox'.
+
+---
+
+User: I'm in the mood for a thriller.
+Bot: Try 'Gone Girl' or 'Prisoners'. Both are intense and well-acted.
+User: Is 'Prisoners' based on true events?
+Bot: Not exactly, but it's realistic and emotionally gripping.
+
+---
+
+User: Any good animated movies for adults?
+Bot: Definitely! 'Spider-Man: Into the Spider-Verse' and 'Soul' are amazing.
+User: I’ve already seen those.
+Bot: Then check out 'Persepolis' or 'Waltz with Bashir' — thought-provoking and beautifully animated.
